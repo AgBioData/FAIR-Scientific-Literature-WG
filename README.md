@@ -1,12 +1,12 @@
-# FAIR Scientific Literature Working Group - AgBioData DatabaseFinder Supplementary 
+# FAIR Scientific Literature Working Group – AgBioData DatabaseFinder Supplementary 
 ### Overview
 This repository contains the auxillary datasets, and documentation generated during the development, evaluation, and analysis of the [AgBioData DatabaseFinder](https://www.agbiodata.org/databasefinder) tool. 
 
+### Files
+```MicroPublication_AgDataFinderToolDataset``` 
+– This file contains information on each of the included databases the finder tool can point to.  
 
-```MicroPublication_AgDataFinderToolDataset```
-This file contains information on each of the included databases the finder tool can point to.  
-
-1.Database Name
+1. Database Name
 2. Database URL
 3. Organisms/species are represented 
 4. Brief summary about the database.
@@ -55,4 +55,4 @@ For each of the remaining columns they represent specific data types. The values
 
 
 ### License
-This DATA - AgBioData DatabaseFinder Supplementary is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+This DATA – "AgBioData DatabaseFinder Supplementary" is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
