@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: AgBioData DatabaseFinder Supplementary
+message: >-
+  Supplementary Data Only, visit
+  https://www.agbiodata.org/databasefinder for more details
+type: dataset
+authors:
+  - name: 'FAIR Scientific Literature Working Group, AgBioData'
+    email: agbiodata@gmail.com.
+    website: 'https://www.agbiodata.org/working_groups/fair_sl'
+repository-code: 'https://github.com/AgBioData/FAIR-Scientific-Literature-WG'
+url: 'https://www.agbiodata.org/databasefinder'
+abstract: >-
+  This repository contains the auxillary datasets, and
+  documentation generated during the development,
+  evaluation, and analysis of the AgBioData DatabaseFinder
+  tool. 
+license: ODbL-1.0
+

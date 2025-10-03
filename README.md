@@ -1,4 +1,4 @@
-# F.A.I.R. Scientific Literature Working Group - Database Finder Tool Documentation 
+# FAIR Scientific Literature Working Group - AgBioData DatabaseFinder Supplementary 
 ### Overview
 This repository contains the auxillary datasets, and documentation generated during the development, evaluation, and analysis of the [AgBioData DatabaseFinder](https://www.agbiodata.org/databasefinder) tool. 
 
@@ -51,3 +51,8 @@ For each of the remaining columns they represent specific data types. The values
 - Whole genome association study
 - Environmental Data
 - Pedigree
+
+
+
+### License
+This DATA - AgBioData DatabaseFinder Supplementary is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
